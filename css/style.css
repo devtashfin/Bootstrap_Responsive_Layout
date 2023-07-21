@@ -1,0 +1,43 @@
+h1 {
+    margin: 20px;
+    font-size: 50px;
+    color: black;
+    border: 2px solid black;
+    border-radius: 25px;
+}
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+header {
+    background-color: #9ed8d8;
+}
+.box {
+    margin: 20px 0;
+    min-height: 80px;
+    background-color: blue;
+
+}
+.hero {
+    background-color: antiquewhite;
+}
+.color {
+    background-color: crimson;
+}
+.body {
+    background-color: #495057;
+}
+.five {
+    background-color: burlywood;
+}
+.bar {
+    background-color: cadetblue;
+}
+footer {
+    background-color: #a3a365;
+}
+.footer {
+    background-color: mediumslateblue;
+}
